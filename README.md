@@ -7,7 +7,7 @@ Este repositório contém uma série de programas em JavaScript desenvolvidos pa
 ## Instalação
 - Clone este repositório em sua máquina local ou baixe o arquivo.
 - Navegue até o diretório do projeto
-- Instale a biblioteca prompt-sync, digite no terminal: npm install prompt-sync
+- Instale a biblioteca prompt-sync, para isso digite no terminal: npm install prompt-sync
 - Para funcionar digite no terminal: node pasta/arquivo.js ou arquivo.js. Assim: node lista/q01.js.
 
 Onde lista é o nome da pasta que as atividades estão, q01.js é o arquivo que você deseja.
